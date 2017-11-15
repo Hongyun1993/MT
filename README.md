@@ -24,12 +24,12 @@ Note that we only listed some early implementations here, and all results are ob
 ## Introduction
 MT is a new training or data compression, it randomly chooses two samples to generate a new one by weighted average method and uses the new samples to train the model.
 
-<img src="https://cloud.githubusercontent.com/assets/8370623/17981494/f838717a-6ad1-11e6-9391-f0906c80bc1d.jpg" width="480">
+`<img src="https://cloud.githubusercontent.com/assets/8370623/17981494/f838717a-6ad1-11e6-9391-f0906c80bc1d.jpg" width="480">`
 
 Figure 1: A homotopy sample
 
 
-![densenet](https://cloud.githubusercontent.com/assets/8370623/17981496/fa648b32-6ad1-11e6-9625-02fdd72fdcd3.jpg)
+`![densenet](https://cloud.githubusercontent.com/assets/8370623/17981496/fa648b32-6ad1-11e6-9625-02fdd72fdcd3.jpg)`
 Figure 2: A deep DenseNet with three dense blocks. 
 
 
