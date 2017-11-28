@@ -2,7 +2,7 @@
 
 This repository contains the code for MT introduced in the paper [" MT−A Kind of Rapid Training Method by Mixing Data"]
 
-### Citing DenseNet
+### Citing MT
 If you find MT useful in your research, please consider citing:
 
 	@inproceedings{Hongyun2018MT,
@@ -45,7 +45,7 @@ Model | CIFAR-10 | CIFAR-10+ | CIFAR-100 | CIFAR-100+
 -------|:-------:|:--------:|:--------:|:--------:|
 DenseNet (L=40, k=12) |93.00 |94.76 | 72.45|75.58
 DenseNet (L=40, k=12)* |93.21 |94.31 | 72.19|73.32
-MT|**93.51** |**94.83** |**73.40** |75.01
+MT|**93.51** |**94.83** |**72.91** |75.01
 
 
 ## Updates
@@ -54,6 +54,6 @@ MT|**93.51** |**94.83** |**73.40** |75.01
 1. Add supporting code, so one can simply *git clone* and run.
 
 ## Contact
-lihongyun1993 at qq.com  
-yangyafeng17 at qq.com  
+lihongyun1993@qq.com  
+yangyafeng17@qq.com  
 Any discussions, suggestions and questions are welcome!
