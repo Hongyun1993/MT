@@ -2,15 +2,6 @@
 
 This repository contains the code for MT introduced in the paper [" MT−A Kind of Rapid Training Method by Mixing Data"]
 
-### Citing MT
-If you find MT useful in your research, please consider citing:
-
-	@inproceedings{Hongyun2018MT,
-	  title={A Kind of Rapid Training Method by Mixing Data},
-	  author={Hongyun Li, Yafeng Yang, Jianlin Zhang, Zhiyong Xu },
-	  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-	  year={2018}
-	}
 
 Note that we only listed some early implementations here, and all results are obtained on DenseNet-40(k=12). 
 
