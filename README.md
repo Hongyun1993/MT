@@ -54,6 +54,4 @@ MT|**93.51** |**94.83** |**72.91** |75.01
 1. Add supporting code, so one can simply *git clone* and run.
 
 ## Contact
-lihongyun1993@qq.com  
-yangyafeng17@qq.com  
 Any discussions, suggestions and questions are welcome!
