@@ -3,7 +3,6 @@
 """
 Created on Mon Nov 13 14:19:46 2017
 
-@author: lhy
 """
 
 from .data import Data
