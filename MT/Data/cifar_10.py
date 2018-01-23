@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Nov 13 14:05:45 2017
-
-@author: lhy
 """
 
 from .data import Data
